@@ -1,0 +1,6 @@
+/.vs
+/bin/
+/obj
+/packages/
+/UnitTests/bin/
+/UnitTests/obj/
